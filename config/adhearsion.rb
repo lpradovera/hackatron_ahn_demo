@@ -1,6 +1,5 @@
 # encoding: utf-8
 
-# config/adhearsion.rb
 Adhearsion.config do |config|
 
   config.development do |dev|
